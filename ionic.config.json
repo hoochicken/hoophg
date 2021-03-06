@@ -1,0 +1,7 @@
+{
+  "name": "hoo-phg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
